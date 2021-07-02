@@ -31,15 +31,17 @@ Steps:
     - Balance the target variable classes (Oversampling).
 
 7. Predictive modeling (4 models)
-    a. Base model with Linear Kernel (from this model improvements will be made).
-    b. Model with Kernel and standardized data (Scaled) (so we can check if the standardization makes any difference).
-    c. Hyperparameter Optimization with Grid Search and RBF Kernel.
-    d. Hyperparameter Optimization with Grid Search and Polynomial Kernel.
+    - a. Base model with Linear Kernel (from this model improvements will be made).
+    - b. Model with Kernel and standardized data (Scaled) (so we can check if the standardization makes any difference).
+    - c. Hyperparameter Optimization with Grid Search and RBF Kernel.
+    - d. Hyperparameter Optimization with Grid Search and Polynomial Kernel.
+
 
 
 
 Important detail:
 This type of project must be done in real time!
+
 That is, the collection must be done in real time (pipeline) and go to feed this predictive model, this may result in some action by the company.
 
 
