@@ -35,4 +35,3 @@ Steps:
 
 
 
-Request the project script by email: janedewes22@gmail.com
