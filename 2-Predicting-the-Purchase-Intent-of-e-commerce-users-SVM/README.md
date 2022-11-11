@@ -46,4 +46,3 @@ That is, the collection must be done in real time (pipeline) and go to feed this
 
 
 
-Request the project script by email: janedewes22@gmail.com
